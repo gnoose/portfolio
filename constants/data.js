@@ -124,7 +124,7 @@ const userData = {
     },
     {
       title: "Graduation",
-      company: "North-Eastern University, (东北大学) Shenyang, Liaoning, China",
+      company: "North-Eastern University, Shenyang, Liaoning, China",
       year: "Sep 2009 - Jul 2013",
       companyLink: "http://english.neu.edu.cn/",
       contributions: [
