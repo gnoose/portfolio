@@ -132,7 +132,7 @@ const userData = {
       ]
     },
   ],
-  resumeUrl: "https://drive.google.com/file/d/1B0RUJ9gb0TuVw4J42V_s_doVLA8Eyv5B/view?usp=sharing",
+  resumeUrl: "https://drive.google.com/file/d/doVLA8Eyv5B/view?usp=sharing",
   socialLinks: {
     email: "mailto:shqr222@163.com",
     linkedin: "https://linkedin.com/in/dongliu",
