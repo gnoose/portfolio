@@ -1,9 +1,9 @@
 const userData = {
   githubUsername: "triaton",
-  name: "Lin Hong",
+  name: "Dong Liu",
   designation: "Full-Stack Software Engineer",
   avatarUrl: "/avatar.jpg",
-  email: "honglin557@gmail.com",
+  email: "shqr222@163.com",
   phone: "+1 801 252 6555",
   address: "",
   projects: [
@@ -134,9 +134,9 @@ const userData = {
   ],
   resumeUrl: "https://drive.google.com/file/d/1B0RUJ9gb0TuVw4J42V_s_doVLA8Eyv5B/view?usp=sharing",
   socialLinks: {
-    email: "mailto:honglin557@gmail.com",
-    linkedin: "https://linkedin.com/in/linhong557",
-    github: "https://github.com/triaton",
+    email: "mailto:shqr222@163.com",
+    linkedin: "https://linkedin.com/in/dongliu",
+    github: "https://github.com/dongliu",
   },
 };
 

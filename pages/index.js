@@ -7,7 +7,7 @@ import Hero from "../components/Hero";
 
 export default function Home({repositories}) {
   return (<ContainerBlock
-    title="Lin Hong - Engineer, Programmer, Developer"
+    title="Dong Liu - Engineer, Programmer, Developer"
     description="Fullstack Web and Blockchain engineer"
   >
     <Hero/>
